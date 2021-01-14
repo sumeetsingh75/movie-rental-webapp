@@ -26,3 +26,6 @@ Movie Rental webapp is a web application that allows users to register/login int
 - All functionality of unauthenticated and authenticated flow.
 - Ability to add new movie.
 - Ability to delete existing movie.
+
+##### Note
+This project is done following online tutorials created by "Programming with Mosh" for Node.js and Reactjs.
